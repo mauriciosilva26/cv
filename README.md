@@ -1,4 +1,4 @@
-# PROYECTO DE VIDA 🎯🚹
+# PROYECTO HOJA DE VIDA 🎯🚹
 
 ## Table of Contents
 1. [INFO GENERAL](#info-general)
