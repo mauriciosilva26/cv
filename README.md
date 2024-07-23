@@ -8,7 +8,7 @@
 
 ### INFO GENERAL
 ***
-Esto es una hoja de vida con mis datos personales y profecionales que fue desarrollada con HTML y CSS.
+Esto es una hoja de vida con mis datos personales y profesionales que fue desarrollada con HTML y CSS.
 
 ## HERRAMIENTAS UTILIZADAS
 ***
@@ -18,11 +18,9 @@ Esto es una hoja de vida con mis datos personales y profecionales que fue desarr
 * ![image](https://github.com/user-attachments/assets/b6ab5397-b7b9-4f3d-854f-77649735d21f)
 * ![image](https://github.com/user-attachments/assets/f64d51c8-fc67-432d-86e5-f8f6ebb20f9a)
 
-
-
 ## USO DEL PROGRAMA
 ***
-descara el repositorio y ejecutar el archivo cv.html.
+Para usar el programa, descarga el repositorio y ejecuta el archivo principal llamado `cv.html`.
 
 ## PRINCIPALES FUNCIONES
 ***
